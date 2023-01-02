@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "E5BEFvetwidm8hnztXTz0Qr2bd7LXbGZUKQ83cVxo04M2rg0dAkZQEA3AmpNlM1T2xbSOWgBhTgy/8ttoAjd1A==",
+  "success": true,
+  "projectFilePath": "F:\\Flori\\CTI\\an 4\\Dez app Web\\curs ASP.NET\\ASP.NET\\StudentAdminPortalAPI\\StudentAdminPortalAPI\\StudentAdminPortalAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Flori\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Flori\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Flori\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Flori\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Flori\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Flori\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
